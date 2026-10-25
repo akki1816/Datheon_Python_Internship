@@ -51,4 +51,4 @@ Learning Outcomes
 
 Internship Submission
 
-These projects are prepared for submission toward the Datheon Python Programming Internship. They must be tested and reviewed before final submission.
+These projects are prepared for submission toward the Datheon Python Programming Internship. They must be tested and reviewed before final submission 
